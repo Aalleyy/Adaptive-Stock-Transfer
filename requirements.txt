@@ -1,5 +1,4 @@
-
-
+yfinance
 matplotlib
 seaborn
 torch
